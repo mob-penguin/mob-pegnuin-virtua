@@ -1,2 +1,2 @@
-# mob-pegnuin-virtua
+# mob-penguin-virtua
 Mob Penguin Virtua is an expansive experience created mostly through artificial intelligence. This project will eventually build a solar system that you may explore fully using procedural generation conducted by artificial intelligence and possibly quantum computing! From the towns, villages, cities, and people on each of the planets, every aspect will have been constructed through the use of a specific ML strategy and will allow for a diverse and expansive experience. I am excited to start such a massive project!
